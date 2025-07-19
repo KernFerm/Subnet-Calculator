@@ -106,5 +106,16 @@ Contributions, suggestions, and bug reports are welcome! Please open an issue or
 ---
 
 ## 📄 License
+```
+Learning License
+===============
 
-MIT
+This software is provided for educational and personal learning purposes only. You are free to use, modify, and share this code for non-commercial, instructional, and self-study activities.
+
+Restrictions:
+- Commercial use, distribution, or resale is not permitted.
+- No warranty is provided; use at your own risk.
+- Please credit the original author if sharing or adapting the code.
+
+For other uses, please contact the author for permission.
+```
