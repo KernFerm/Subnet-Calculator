@@ -37,7 +37,7 @@ pip install customtkinter
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/kernferm/subnet-calculator.git
+    git clone https://github.com/KernFerm/Subnet-Calculator.git
     cd subnet-calculator
     ```
 2. **Install dependencies:**
