@@ -28,7 +28,7 @@
 Install dependencies:
 
 ```bash
-pip install customtkinter
+pip install customtkinter>=5.2.2
 ```
 
 ---
