@@ -292,7 +292,7 @@ class SubnetCalculator(ctk.CTk):
                     self.mask_error.configure(text="Invalid netmask.")
             else:
                 self.mask_error.configure(text="IPv6 does not support netmask notation.")
-        # ...existing code...
+
     def clear_all_fields(self):
         self.ip_entry.delete(0, 'end')
         self.mask_entry.delete(0, 'end')
@@ -333,7 +333,6 @@ class SubnetCalculator(ctk.CTk):
     def show_about(self):
         about_text = (
             "Subnet Calculator v1.0\n\n"
-            "Created by GitHub Copilot.\n"
             "Features:\n"
             "- IPv4/IPv6 support\n"
             "- Subnetting\n"
