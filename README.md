@@ -22,7 +22,7 @@
 
 ## 🖥️ Requirements
 
-- Python 3.8+ (Tested on Python 3.11.9)
+- Python 3.11+ (Tested on Python 3.11.9)
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter)
 
 Install dependencies:
