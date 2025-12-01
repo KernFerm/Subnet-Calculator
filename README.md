@@ -3,6 +3,11 @@
 
 **A modern, user-friendly GUI tool for calculating and visualizing IPv4/IPv6 subnets. Easily analyze networks, split into subnets, and check IPs for IT professionals, students, and enthusiasts.**
 
+
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 ---
 
 ## 🚀 Features
@@ -120,3 +125,4 @@ Restrictions:
 
 For other uses, please contact the author for permission.
 ```
+
